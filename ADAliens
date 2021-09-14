@@ -1,13 +1,6 @@
 {
-    "project": "ADAliens",
-    "tags": [
-    "ADAliens",
-    "ADaliens",
-    "adaliens",
-    "Ada aliens",
-    ], 
+    "project": "AdAliens",
     "policies": [
-        "11a6ba01fcb2a954e0bae7afb69ad6e36006484cbd35fc296995096c",
-        
+        "11a6ba01fcb2a954e0bae7afb69ad6e36006484cbd35fc296995096c"
     ]
 }
